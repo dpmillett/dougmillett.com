@@ -3,28 +3,26 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import Header from '../components/Header'
+import Container from '../components/Container'
+import Footer from '../components/Footer'
 import './index.css'
 
 const TemplateWrapper = ({ children }) => (
-  <div>
+  <div className="site">
     <Helmet
-      title="Gatsby Default Starter"
+      title="Doug Millett"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        {
+          name: 'description',
+          content: 'Doug Millett, Digital Product Manager',
+        },
       ]}
     />
     <Header />
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0,
-      }}
-    >
-      {children()}
-    </div>
+    <main className="site-main">
+      <Container>{children()}</Container>
+    </main>
+    <Footer />
   </div>
 )
 

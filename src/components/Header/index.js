@@ -1,33 +1,22 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Container from '../Container'
 
 const Header = () => (
-  <div
-    style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
-    }}
-  >
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
+  <header className="site-header">
+    <Container>
+      <h1 className="site-title" style={{ margin: 0 }}>
         <Link
           to="/"
           style={{
-            color: 'white',
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          Doug Millett
         </Link>
       </h1>
-    </div>
-  </div>
+    </Container>
+  </header>
 )
 
 export default Header
