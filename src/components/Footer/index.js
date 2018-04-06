@@ -16,7 +16,11 @@ function Footer() {
           <p className="copyright">&copy; Doug Millett. All Rights Reserved.</p>
           <nav className="footer-nav social-nav">
             {socialNavLinks.map((link, index) => (
-              <a href={link.path} className="footer-nav-link social-nav-link">
+              <a
+                href={link.path}
+                className="footer-nav-link social-nav-link"
+                key={index}
+              >
                 {link.title}
               </a>
             ))}
