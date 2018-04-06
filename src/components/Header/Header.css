@@ -1,7 +1,7 @@
 .site-header {
   position: relative;
   margin-bottom: 16px;
-  z-index: 10;
+  z-index: 20;
 }
 
 .site-header-inner {
