@@ -81,11 +81,9 @@
   }
   .hero h1 {
     font-size: 72px;
-    letter-spacing: 0.03em;
   }
 
   .hero h2 {
     font-size: 55px;
-    font-weight: 300;
   }
 }

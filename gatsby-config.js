@@ -7,7 +7,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: ['ubuntu', 'lora'],
+        fonts: ['ubuntu:300,500,700', 'lora'],
       },
     },
   ],
