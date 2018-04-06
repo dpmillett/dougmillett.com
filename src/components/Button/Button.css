@@ -1,0 +1,18 @@
+.button {
+  display: inline-block;
+  padding: 0 16px;
+  border: 0;
+  border-radius: 3px;
+  background-color: #2196f3;
+  color: #fff;
+  font-weight: 500;
+  line-height: 36px;
+  cursor: pointer;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  transition: 150ms ease background-color;
+}
+
+.button:hover {
+  background-color: rgba(33, 150, 243, 0.75);
+}
