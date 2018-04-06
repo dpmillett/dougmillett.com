@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-4b223f6b0348bdc5d106.js",
-      "component---src-pages-index-js-4b223f6b0348bdc5d106.js.map"
+      "component---src-pages-index-js-c2ec0eea4a2c410da5fa.js",
+      "component---src-pages-index-js-c2ec0eea4a2c410da5fa.js.map"
     ],
     "path---": [
-      "path----557518bd178906f8d58a.js",
-      "path----557518bd178906f8d58a.js.map"
+      "path----131f9aef94525eeb6ecd.js",
+      "path----131f9aef94525eeb6ecd.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-1877c58256cf9863b298.js",
@@ -51,10 +51,14 @@
       "path---resume-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-2921b044a293ceb45fc8.js",
+      "app-98f7dac2f1be484055e1.js",
       "build-js-styles.css",
-      "app-2921b044a293ceb45fc8.js.map",
+      "app-98f7dac2f1be484055e1.js.map",
       "build-js-styles.css.map"
+    ],
+    "component---src-layouts-home-js": [
+      "component---src-layouts-home-js-ac5a3146569a8d7d8627.js",
+      "component---src-layouts-home-js-ac5a3146569a8d7d8627.js.map"
     ],
     "component---src-pages-portfolio-js": [
       "component---src-pages-portfolio-js-f9eefec1c2db670ad02c.js",
