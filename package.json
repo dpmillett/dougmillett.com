@@ -6,12 +6,19 @@
   "dependencies": {
     "gatsby": "^1.9.241",
     "gatsby-link": "^1.6.39",
+    "gatsby-plugin-google-fonts": "^0.0.4",
     "gatsby-plugin-react-helmet": "^2.0.8",
     "gh-pages": "^1.1.0",
     "react-helmet": "^5.2.0"
   },
-  "keywords": ["gatsby"],
-  "browserslist": ["> 1%", "last 2 versions", "safari > 7"],
+  "keywords": [
+    "gatsby"
+  ],
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "safari > 7"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
