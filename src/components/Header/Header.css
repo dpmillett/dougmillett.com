@@ -1,3 +1,7 @@
+.site-header {
+  margin-bottom: 16px;
+}
+
 .site-header-inner {
   display: flex;
   align-items: center;
@@ -6,22 +10,29 @@
 }
 
 .site-title {
-  margin: 16px 0;
+  margin: 16px 16px 8px 0;
+  font-size: 24px;
 }
 
 .site-title-link {
+  color: #333;
   text-decoration: none;
+  transition: 150ms ease color;
+}
+
+.site-title-link:hover {
+  color: #2196f3;
 }
 
 .site-nav {
   display: flex;
-  margin-bottom: 16px;
 }
 
 .site-nav-link {
   position: relative;
   font-size: 14px;
   line-height: 48px;
+  color: #333;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -46,9 +57,10 @@
   margin-right: 16px;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 550px) {
   .site-title {
-    margin-bottom: 0;
+    margin: 0;
+    margin-right: 16px;
   }
   .site-nav {
     margin-bottom: 0;

@@ -1,3 +1,24 @@
 .site-footer {
+  padding: 16px 0;
   font-size: 12px;
+  background-color: #333;
+  color: #fff;
+}
+
+.site-footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.copyright {
+  margin-bottom: 0;
+}
+
+.footer-nav-link {
+  color: #fff;
+}
+
+.footer-nav-link:not(:last-child) {
+  margin-right: 8px;
 }

@@ -1,0 +1,16 @@
+.portfolio-filters {
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.portfolio-filter {
+  margin: 0 8px;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.portfolio-filter[aria-selected='true'] {
+  border-bottom: 2px solid #2196f3;
+}
