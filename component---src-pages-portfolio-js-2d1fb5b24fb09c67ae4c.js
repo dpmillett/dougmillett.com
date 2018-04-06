@@ -1,0 +1,2 @@
+webpackJsonp([0xe015e3200350],{205:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}function l(){return r.default.createElement("div",null,"Portfolio")}t.__esModule=!0;var o=u(2),r=n(o);t.default=l,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-portfolio-js-2d1fb5b24fb09c67ae4c.js.map
