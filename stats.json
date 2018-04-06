@@ -13,8 +13,8 @@
       "component---src-pages-contact-js-1877c58256cf9863b298.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-bf63d45c92a085297773.js",
-      "component---src-layouts-index-js-bf63d45c92a085297773.js.map"
+      "component---src-layouts-index-js-df589fa784e517453c6d.js",
+      "component---src-layouts-index-js-df589fa784e517453c6d.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -30,7 +30,9 @@
     ],
     "commons": [
       "commons-7392ea54dc158570a715.js",
-      "commons-7392ea54dc158570a715.js.map"
+      "build-js-styles.css",
+      "commons-7392ea54dc158570a715.js.map",
+      "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -55,8 +57,8 @@
       "build-js-styles.css.map"
     ],
     "component---src-pages-portfolio-js": [
-      "component---src-pages-portfolio-js-2d1fb5b24fb09c67ae4c.js",
-      "component---src-pages-portfolio-js-2d1fb5b24fb09c67ae4c.js.map"
+      "component---src-pages-portfolio-js-f9eefec1c2db670ad02c.js",
+      "component---src-pages-portfolio-js-f9eefec1c2db670ad02c.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
