@@ -6,6 +6,7 @@ import Header from '../components/Header'
 import Hero from '../components/Hero'
 import Container from '../components/Container'
 import Footer from '../components/Footer'
+import './index.css'
 import './home.css'
 
 const TemplateWrapper = ({ children }) => (
