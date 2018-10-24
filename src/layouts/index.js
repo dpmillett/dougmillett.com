@@ -17,7 +17,9 @@ const TemplateWrapper = ({ children }) => (
           content: 'Doug Millett, Digital Product Manager',
         },
       ]}
-    />
+    >
+      <html lang="en" />
+    </Helmet>
     <Header />
     <main className="site-main">
       <Container>{children()}</Container>
